@@ -120,4 +120,4 @@ ___
 Это тоже отдельный абзац, но...⋅⋅  
 Эта строка отделена одной новой строкой, поэтому она находится в *том же абзаце*.
 
-![kartinka](https://placehold.it/150x100)https://vk.com/photo71818948_457239897
+![kartinka](https://pbs.twimg.com/profile_images/873044955622551552/O1YiysBH_400x400.jpg)
