@@ -121,3 +121,6 @@ ___
 Эта строка отделена одной новой строкой, поэтому она находится в *том же абзаце*.
 
 ![kartinka](https://pbs.twimg.com/profile_images/873044955622551552/O1YiysBH_400x400.jpg)
+
+<a href="http://https://www.youtube.com/watch?v=M-0v__cYcnU><img src="http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg" 
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
