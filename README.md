@@ -53,3 +53,18 @@
 ![alt-текст][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
+
+```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+```
+ 
+```python
+s = "Подсветка Python"
+print s
+```
+ 
+```
+Язык не указан, синтаксис не подсвечен.
+Но мы вставим в него <b>тег</b>.
+```
